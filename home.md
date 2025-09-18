@@ -9,17 +9,17 @@ I’m a graduate student in the Department of Computer Science. I’m from India
 I’m curious by nature and love turning messy datasets into clear stories. I value clean, reproducible workflows and thoughtful visualization. I’m happiest when I’m learning with others, and leaving documentation better than I found it.
 
 # Research Interests  
-My research interests are centered on **data science, visualizations, and automation**. I’m particularly interested in how data can be communicated more effectively through interactive and visual tools, as well as in building automated systems that make data insights more accessible.  
+My research interests are centered on ***data science, visualizations, and automation***. I’m particularly interested in how data can be communicated more effectively through interactive and visual tools, as well as in building automated systems that make data insights more accessible.  
 
 # Coursework  
 Some of the graduate courses I have taken include:  
-- CS401: Computer Algorithms  
-- CS418: Introduction to Data Science  
-- CS412: Introduction to Machine Learning  
-- CS588: Secure Networked and Distributed Systems  
-- CS594: Responsible AI Engineering  
-- CS421: Natural Language Processing  
-- CS529: Visual Data Science  
+- **CS401**: Computer Algorithms  
+- **CS418**: Introduction to Data Science  
+- **CS412**: Introduction to Machine Learning  
+- **CS588**: Secure Networked and Distributed Systems  
+- **CS594**: Responsible AI Engineering  
+- **CS421**: Natural Language Processing  
+- **CS529**: Visual Data Science  
 
 # Contact Info  
 <a name="contact"></a>  
