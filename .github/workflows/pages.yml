@@ -1,25 +1,43 @@
-name: Deploy Eleventy to GitHub Pages
+name: Deploy 11ty to GitHub Pages
 on:
   push:
-    branches: [ "main" ]
+    branches: [ main ]
+  workflow_dispatch:
+
 permissions:
   contents: read
   pages: write
   id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          node-version: '20'
-      - run: npm ci || npm i
-      - run: npx @11ty/eleventy
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+          node-version: 20
+
+      - name: Install deps
+        run: npm ci
+
+      # If your package.json has "build": "eleventy" or similar, this will run it.
+      - name: Build site
+        run: npm run build
+
+      # Eleventy’s default output folder is "_site" unless you changed it in .eleventy.js
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: _site   # change if your Eleventy output folder is different
+          path: _site
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
@@ -27,5 +45,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - id: deployment
+      - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
