@@ -1,10 +1,12 @@
 ---
 photo: ../photos/Home.png
-title: Shrinisha - Home
+title: Graduate Student 
 ---
 
 # About Me  
-I am a graduate student in the Department of Computer Science at UIC. I grew up in India, where I also completed my bachelor’s degree in Computer Science. Before joining graduate school, I worked for 2.5 years as an analyst in a corporate setting. Outside of academics and work, I enjoy reading fiction books, binge-watching series, and painting.  
+I’m a graduate student in the Department of Computer Science. I’m from India, where I completed my bachelor’s degree in Computer Science before working for 2.5 years as an analyst in a corporate setting. I enjoy reading fiction, binge-watching good series, and painting when I need a creative reset.
+
+I’m curious by nature and love turning messy datasets into clear stories. I value clean, reproducible workflows and thoughtful visualization. I’m happiest when I’m learning with others, and leaving documentation better than I found it.
 
 # Research Interests  
 My research interests are centered on **data science, visualizations, and automation**. I’m particularly interested in how data can be communicated more effectively through interactive and visual tools, as well as in building automated systems that make data insights more accessible.  
