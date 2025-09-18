@@ -1,7 +1,7 @@
 ---
 name: Shrinisha Nirmalkumar
 title: Experience - Shrinisha
-photo: ../photos/portrait2.jpg
+photo: ../photos/Experience.jpg
 ---
 
 
