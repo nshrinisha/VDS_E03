@@ -1,5 +1,5 @@
 ---
-photo: ../photos/Home.png
+photo: ../photos/Home.jpg
 title: Graduate Student 
 ---
 
