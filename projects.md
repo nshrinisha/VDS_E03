@@ -1,6 +1,6 @@
 ---
 name: Shrinisha Nirmalkumar
-title: Projects - Shrinisha 
+title: University Projects
 photo: ../photos/Projects.jpg
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Shrinisha Nirmalkumar
-title: Experience - Shrinisha
+title: Work Experience[FTE/PT/Intern]
 photo: ../photos/Experience.jpg
 ---
 
