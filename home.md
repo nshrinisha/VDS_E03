@@ -25,4 +25,4 @@ Some of the graduate courses I have taken include:
 <a name="contact"></a>  
 Feel free to reach out if you’d like to connect, collaborate, or discuss opportunities.  
 
-📧 Email: **snirm@uic.edu**
+📧 Email: [snirm@uic.edu](mailto:snirm@uic.edu)
