@@ -1,22 +1,14 @@
 ---
 name: Shrinisha Nirmalkumar
-title: Education 
+title: Higher Studies 
 photo: ../photos/Education.jpg
 ---
 
-
-## University of Illinois at Chicago - Chicago, Illinois
+## University of Illinois at Chicago -  Chicago, Illinois
 **Master of Science in Computer Science**  
 *August 2024 – May 2026*
 
-**Coursework:**  
-- Computer Algorithms  
-- Introduction to Data Science  
-- Introduction to Machine Learning  
-- Secure Networked and Distributed Systems  
-- Responsible AI Engineering  
-- Natural Language Processing  
-- Visual Data Science  
+**Coursework:**  Computer Algorithms, Introduction to Data Science, Introduction to Machine Learning, Secure Networked and Distributed Systems, Responsible AI Engineering, Natural Language Processing, Visual Data Science  
 
 ---
 

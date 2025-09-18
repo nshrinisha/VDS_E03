@@ -11,18 +11,11 @@ I’m curious by nature and love turning messy datasets into clear stories. I va
 # Research Interests  
 My research interests are centered on ***data science, visualizations, and automation***. I’m particularly interested in how data can be communicated more effectively through interactive and visual tools, as well as in building automated systems that make data insights more accessible.  
 
-# Coursework  
-Some of the graduate courses I have taken include:  
-- **CS401**: Computer Algorithms  
-- **CS418**: Introduction to Data Science  
-- **CS412**: Introduction to Machine Learning  
-- **CS588**: Secure Networked and Distributed Systems  
-- **CS594**: Responsible AI Engineering  
-- **CS421**: Natural Language Processing  
-- **CS529**: Visual Data Science  
 
 # Contact Info  
 <a name="contact"></a>  
 Feel free to reach out if you’d like to connect, collaborate, or discuss opportunities.  
 
-📧 Email: [**snirm@uic.edu**](mailto:snirm@uic.edu)
+Email: [**snirm@uic.edu**](mailto:snirm@uic.edu)
+
+Linkedin: [**Shrinisha Nirmalkumar**](https://www.linkedin.com/in/shrinishanirmal/)

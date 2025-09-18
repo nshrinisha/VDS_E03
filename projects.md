@@ -13,7 +13,6 @@ photo: ../photos/Projects.jpg
 - Implemented client-side E2EE: peers derive a shared secret via Diffie–Hellman, then derive AES session keys/IVs; the server never sees plaintext. Includes identity handshake and session-scoped keys/salts for forward secrecy.
 - Ensured reliable delivery: encrypted offline message queuing on the server, automatic reconnection, peer online/offline detection, and typing indicators for smooth real-time chat.
 - Built a usable desktop app: PyQt6 chat window (login, history, status badges), structured JSON logs per action with secure cleanup at session end; clear module split.
-- Integrity & privacy guarantees: SHA-256–derived message keys protect integrity; session-specific materials and ephemeral keys for queued messages preserve confidentiality vs. cloud-chat designs.
 
 ---
 
